@@ -1,7 +1,7 @@
 Hello, I'm Santhosh Thomas 👋
 
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Angular Projects
 - 🤔 I’m looking for help with Angular
