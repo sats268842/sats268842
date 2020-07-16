@@ -6,7 +6,7 @@ Hello, I'm Santhosh Thomas 👋
 - 👯 I’m looking to collaborate on Angular Projects
 - 🤔 I’m looking for help with Angular
 - 💬 Ask me about Angular
-- 📫 How to reach me: Instagram - @san_thos_h
+- 📫 How to reach me: Instagram - [@san_thos_h](https://www.instagram.com/san_thos_h/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 23 hours free in a day
 
